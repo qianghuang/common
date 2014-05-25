@@ -1,2 +1,6 @@
 .project
 Thumb.db
+
+demo/*
+
+test/*
